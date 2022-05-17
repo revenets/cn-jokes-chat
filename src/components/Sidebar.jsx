@@ -52,6 +52,7 @@ const Sidebar = (props) => {
                         ></label>
                         <input
                             type="text"
+                            autocomplete="off"
                             id="search"
                             placeholder="Search or start a new chat"
                             onChange={searchHandler}

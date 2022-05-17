@@ -113,6 +113,7 @@ const Chat = ({ currentChat, updateChat }) => {
                     <input
                         type="text"
                         id="answer"
+                        autocomplete="off"
                         placeholder="Type your message"
                         name="text"
                         onChange={handleChange}
