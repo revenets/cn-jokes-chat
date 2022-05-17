@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/cn-jokes-chat/static/css/main.d9900059.css",
-    "main.js": "/cn-jokes-chat/static/js/main.793e89f0.js",
+    "main.js": "/cn-jokes-chat/static/js/main.880d9363.js",
     "static/media/user.png": "/cn-jokes-chat/static/media/user.a6143582309785dca610.png",
     "static/media/icons.svg?hj8p24": "/cn-jokes-chat/static/media/icons.dbe103d688eae77e6529.svg",
     "static/media/icons.woff?hj8p24": "/cn-jokes-chat/static/media/icons.a2c0a3af7031514ca6c6.woff",
     "static/media/icons.ttf?hj8p24": "/cn-jokes-chat/static/media/icons.1d0a5efb34cc4f266b93.ttf",
     "index.html": "/cn-jokes-chat/index.html",
     "main.d9900059.css.map": "/cn-jokes-chat/static/css/main.d9900059.css.map",
-    "main.793e89f0.js.map": "/cn-jokes-chat/static/js/main.793e89f0.js.map"
+    "main.880d9363.js.map": "/cn-jokes-chat/static/js/main.880d9363.js.map"
   },
   "entrypoints": [
     "static/css/main.d9900059.css",
-    "static/js/main.793e89f0.js"
+    "static/js/main.880d9363.js"
   ]
 }
